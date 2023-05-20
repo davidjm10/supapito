@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>Pagina Web de futbol David Jimenez</title>
+<meta charset="UTF-8>
+<metta name= "description" content = "en este post">
+</head>
+<body>
+<br>
+<br>
+Pagina Web realizada por David Jimenez
+<p> Esta es una pagina para que todos los amantes del futbol se divierta con mi contenido
+<br>
+Hola mundo Futbolero
+
+<h1>Como crear una pagina HTML futbolera : Tutorial </h1>
+<p> Esta pagina es un ejemplo muy simple para que entiendas de la pasion por deportistas de talla internacional </p>
+<br>
+<h2>Deportistas destacados: Messi </h2>
+<p> Su historia en el futbol </p>
+<o1> 
+	<li> Donde nace este deportista </li>
+	<li> Principales clubes deportivos </li>
+	<li> Titulos obtenidos </li>
+	<li> sus grandes amores </li>
+	<li> y mucho mas :) </li>
+</o1>
+<h2>Mas informacion </h2>
+<p> El articulo completo lo puedes encontrar < a target= "_ blank" href=
+"https://wwww.messi.com
+src="/\Sitio2/image.jpg"
+<br>
+body background =”image.png”>
+<img src>
+Style="width:300px;height:400px."
+
+</body>
+</html>
